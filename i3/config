@@ -197,7 +197,7 @@ exec compton --config /home/everett/.compton.conf
 
 #Set my wallpaper and colorscheme
 
-exec feh --bg-fill /home/everett/Pictures/walls/forest.jpg
+exec feh --bg-fill /home/everett/Pictures/walls/hongkongminimal.jpg
 exec wal -R
 
 #Start Polybar
