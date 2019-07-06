@@ -14,7 +14,7 @@ set $mod Mod4
 
 #Set Gaps to default
 
-gaps inner 10
+gaps inner 5
 
 #Allow movement of Windows using "move" mode and arrow keys
 bindsym $mod+m mode "move" focus floating
